@@ -17,7 +17,7 @@ The comparison of each model's output with the permeability derived from NMR log
 
 For a thorough understanding of the methodology and outcomes, we recommend reviewing the corresponding research paper.
 
-Title: Application of machine and deep learning techniques to estimate NMR-derived permeability from conventional well logs and artificial 2D feature maps
+Entitled "Application of machine and deep learning techniques to estimate NMR-derived permeability from conventional well logs and artificial 2D feature maps"
 
 Published in: Journal of Petroleum Exploration and Production Technology, 2022
 
