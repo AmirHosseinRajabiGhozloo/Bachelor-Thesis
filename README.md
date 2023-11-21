@@ -12,3 +12,13 @@ Shallow and deep learning (DL) methods are employed to estimate permeability by 
 Three supervised ML algorithms—gradient boosting regressor (GBR), adaptive neuro fuzzy inference system (ANFIS), multilayer perceptron (MLP)—as well as radial basis function (RBF) neural network, group method of data handling (GMDH), and residual dense neural network (Res DNN) are utilized and evaluated. 
 Additionally, a modified two-dimensional CNN, named Residual 2D-CNN, is developed, fed with artificial 2D feature maps generated from available conventional logs. 
 The comparison of each model's output with the permeability derived from NMR logs demonstrates the efficacy of nonlinear machine and deep learning techniques in estimating NMR permeability.
+
+# Paper
+
+For a thorough understanding of the methodology and outcomes, we recommend reviewing the corresponding research paper.
+
+Title: Application of machine and deep learning techniques to estimate NMR-derived permeability from conventional well logs and artificial 2D feature maps
+
+Published in: Journal of Petroleum Exploration and Production Technology, 2022
+
+DOI: https://doi.org/10.1007/s13202-022-01492-3
